@@ -1,0 +1,5 @@
+The Purpose of this repo and all its files is just to show how my code looks and my way of programming.
+
+I am not resposible is this code is used in any of the not intended purposes listed above. This include coping, cloning, downloading and/or distributing this code for unethical purposes such as using this code for any school assigment, or impersonating this code as your own.
+
+Use this code for the intended purpose of analisys only.
